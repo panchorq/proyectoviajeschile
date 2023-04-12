@@ -1,0 +1,23 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.quienes-somos {
+    font-weight: 600;
+}
+
+.destacados {
+    font-weight: 600;
+}
+
+.contacto {
+    font-weight: 600;
+}
+
+.texto-footer {
+    padding-left: 200px;
+}
+
+.icons-footer {
+    padding-left: 100px;
+}
